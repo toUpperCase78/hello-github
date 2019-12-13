@@ -69,15 +69,13 @@ def hello(string):
     return "Hello," + string
  ```
  
- Am I allowed to mention myself @toUpperCase78 here?
- 
  Well, perhaps the time has come to create tasks:
  
- - [X] Mastered texts
- - [X] Mastered lists
- - [ ] Mastered images
- - [X] Mastered headers & quotes
- - [X] Mastered codes
+ - [X] Texts done
+ - [X] Lists done
+ - [ ] Images done
+ - [X] Headers & quotes done
+ - [X] Codes done
  - [ ] And some other useful things
  
  All right, moving on to tables!
