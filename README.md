@@ -5,6 +5,8 @@ Here, I wrote another line which enables me to edit this readme file.
 
 OK, OK, after a very long time since I created this repository, it's time to master the markdown features and test them all in such a readme file. That's because when I include more repositories, it needs to be clean and understandable.
 
+Now, I have installed GitHub to my computer in order to edit anything from my desktop! I'm on the right way if I can see this line after I commit.
+
 **This is a sentence with bold.**
 
 *This is a sentence with italic.*
